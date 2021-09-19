@@ -5,5 +5,6 @@ And with a button to save the resized image.
 
 
 # How to use
-https://github.com/upiita-Emma-d/image_resizer/blob/main/pictures_shows/interface.jpg
+![alt text](https://github.com/upiita-Emma-d/image_resizer/blob/main/pictures_shows/interface.jpg)
+
  
